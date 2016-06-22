@@ -130,7 +130,8 @@ syntax on
 " colorscheme solarized
 
 set linebreak
-set spell spelllang=en_us
+set spelllang=en_us
+set nospell
 set enc=utf-8
 
 

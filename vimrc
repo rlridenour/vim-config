@@ -83,6 +83,10 @@ nnoremap <Leader>o :e<Space>
 " Edit vimrc with leader-ev
 nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
 
+set t_Co=256
+"let g:zenburn_high_Contrast=1
+" let g:zenburn_transparent = 1
+colors zenburn
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
 " Searching

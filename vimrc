@@ -206,7 +206,8 @@ nmap <silent> <leader>swj :botright new<cr>
 nmap <silent> <leader>j <c-w>w<c-d><c-w>W
 nmap <silent> <leader>k <c-w>w<c-u><c-w>W
 
-
+" NerdTree
+map <leader>nt :NERDTreeToggle<cr>
 
 augroup mkd
 
